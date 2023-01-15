@@ -82,9 +82,27 @@ So, your output should be as follows:
 
 ## Checkpoint 6
 
+create a struct to store information about a car, including its model, number of seats, and current gear, then add a method to change gears up or down. Have a think about variables and access control: what data should be a variable rather than a constant, and what data should be exposed publicly? Should the gear-changing method validate its input somehow?
+
 ## Checkpoint 7
 
+Your challenge is this: make a class hierarchy for animals, starting with `Animal` at the top, then `Dog` and `Cat` as subclasses, then `Corgi` and `Poodle` as subclasses of `Dog`, and `Persian` and `Lion` as subclasses of `Cat`.
+
+But there’s more:
+
+1. The `Animal` class should have a `legs` integer property that tracks how many legs the animal has.
+2. The `Dog` class should have a `speak()` method that prints a generic dog barking string, but each of the subclasses should print something slightly different.
+3. The `Cat` class should have a matching `speak()` method, again with each subclass printing something different.
+4. The `Cat` class should have an `isTame` Boolean property, provided using an initializer.
+
 ## Checkpoint 8
+
+Your challenge is this: make a protocol that describes a building, adding various properties and methods, then create two structs, `House` and `Office`, that conform to it. Your protocol should require the following:
+
+1. A property storing how many rooms it has.
+2. A property storing the cost as an integer (e.g. 500,000 for a building costing $500,000.)
+3. A property storing the name of the estate agent responsible for selling the building.
+4. A method for printing the sales summary of the building, describing what it is along with its other properties.
 
 ## Checkpoint 9
 
