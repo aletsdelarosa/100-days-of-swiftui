@@ -143,6 +143,12 @@ You need to build an app that handles unit conversions: users will select an inp
 
 We’re going to be building a guessing game that helps users learn some of the many flags of the world.
 
+![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/212570330-39d95312-b6ac-4c03-a9c2-fe4d6f0d84d9.png)
+![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/212570334-5816038b-3d89-48d7-b9c9-27b1d2ef95c3.png)
+
+![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/212570367-0bf0154f-6689-4490-a646-3c3dda7030dd.png)
+![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/212570369-608e0b08-2455-49ae-8e12-662789c24cbc.png)
+
 ## Project 3
 
 ## Project 4
