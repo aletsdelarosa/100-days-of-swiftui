@@ -128,8 +128,8 @@ If that sounds easy, it’s because I haven’t explained the catch yet: I want 
 
 This project is a check-sharing app that calculates how to split a check based on the number of people and how much tip you want to leave. The project in itself isn’t complicated, but we’ll be taking it slow so you can see exactly how these fundamentals fit together.
 
-![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/212564158-3dccb750-b988-4cd0-b8e6-3e008802599d.png)
-![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/212564748-5e765b8b-7b5a-43d7-86ce-0a84b62b1ab9.png)
+![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/212564158-3dccb750-b988-4cd0-b8e6-3e008802599d.png | width=200)
+![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/212564748-5e765b8b-7b5a-43d7-86ce-0a84b62b1ab9.png | width=200)
 
 ## Challenge
 
