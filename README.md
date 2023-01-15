@@ -141,6 +141,8 @@ You need to build an app that handles unit conversions: users will select an inp
 
 ## Project 2
 
+We’re going to be building a guessing game that helps users learn some of the many flags of the world.
+
 ## Project 3
 
 ## Project 4
