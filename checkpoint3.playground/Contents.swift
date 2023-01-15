@@ -6,7 +6,7 @@ for number in 1...100 {
     }
 
     if number.isMultiple(of: 5) {
-        textToPrint = "Buzz"
+        textToPrint += "Buzz"
     }
 
     if(textToPrint == "") {
