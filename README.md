@@ -18,35 +18,37 @@ This time the challenge is to create an array of strings, then write some code t
 
 The problem is called fizz buzz, and has been used in job interviews, university entrance tests, and more for as long as I can remember. Your goal is to loop from 1 through 100, and for each number:
 
-1. If it’s a multiple of 3, print “Fizz”
-2. If it’s a multiple of 5, print “Buzz”
-3. If it’s a multiple of 3 and 5, print “FizzBuzz”
+1. If it’s a multiple of 3, print "Fizz"
+2. If it’s a multiple of 5, print "Buzz"
+3. If it’s a multiple of 3 and 5, print "FizzBuzz"
 4. Otherwise, just print the number.
 
 So, here are some example values you should have when your code runs:
 
-1 should print “1”
-2 should print “2”
-3 should print “Fizz”
-4 should print “4”
-5 should print “Buzz”
-6 should print “Fizz”
-7 should print “7”
+```swift
+1 should print "1"
+2 should print "2"
+3 should print "Fizz"
+4 should print "4"
+5 should print "Buzz"
+6 should print "Fizz"
+7 should print "7"
 …
-15 should print “FizzBuzz”
+15 should print "FizzBuzz"
 …
-100 should print “Buzz”
+100 should print "Buzz"
+```
 
 ## Checkpoint 4
 
 The challenge is this: write a function that accepts an integer from 1 through 10,000 and returns the integer square root of that number. That sounds easy, but there are some catches:
 
 1. You can’t use Swift’s built-in sqrt() function or similar – you need to find the square root yourself.
-2. If the number is less than 1 or greater than 10,000 you should throw an “out of bounds” error.
+2. If the number is less than 1 or greater than 10,000 you should throw an "out of bounds" error.
 3. You should only consider integer square roots – don’t worry about the square root of 3 being 1.732, for example.
-4. If you can’t find the square root, throw a “no root” error.
+4. If you can’t find the square root, throw a "no root" error.
 
-This is a problem you should “brute force” – create a loop with multiplications inside, looking for the integer you were passed in.
+This is a problem you should "brute force" – create a loop with multiplications inside, looking for the integer you were passed in.
 
 ## Checkpoint 5
 
@@ -64,7 +66,7 @@ Your job is to:
 
 1. Filter out any numbers that are even
 2. Sort the array in ascending order
-3. Map them to strings in the format “7 is a lucky number”
+3. Map them to strings in the format "7 is a lucky number"
 4. Print the resulting array, one item per line
 
 So, your output should be as follows:
