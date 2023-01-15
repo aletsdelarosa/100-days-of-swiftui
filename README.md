@@ -2,6 +2,20 @@
 
 This Repo contains the Checkpoints and projects I made as part of 100 Days of SwiftUI by Hacking with Swift.
 
+## Table of contents
+
+- [Checkpoint 1](#checkpoint-1)
+- [Checkpoint 2](#checkpoint-2)
+- [Checkpoint 3](#checkpoint-3)
+- [Checkpoint 4](#checkpoint-4)
+- [Checkpoint 5](#checkpoint-5)
+- [Checkpoint 6](#checkpoint-6)
+- [Checkpoint 7](#checkpoint-7)
+- [Checkpoint 8](#checkpoint-8)
+- [Checkpoint 9](#checkpoint-9)
+- [Project 1 | WeSplit Check-sharing app](#project-1)
+- [Challenge | Unit conversion app](#challenge)
+
 ## Checkpoint 1
 
 A Swift Playground that:
@@ -115,6 +129,10 @@ If that sounds easy, it’s because I haven’t explained the catch yet: I want 
 This project is a check-sharing app that calculates how to split a check based on the number of people and how much tip you want to leave. The project in itself isn’t complicated, but we’ll be taking it slow so you can see exactly how these fundamentals fit together.
 
 ![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/212564158-3dccb750-b988-4cd0-b8e6-3e008802599d.png)
+
+## Challenge
+
+You need to build an app that handles unit conversions: users will select an input unit and an output unit, then enter a value, and see the output of the conversion.
 
 ## Project 2
 
