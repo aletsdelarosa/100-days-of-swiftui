@@ -46,6 +46,8 @@ The challenge is this: write a function that accepts an integer from 1 through 1
 3. You should only consider integer square roots – don’t worry about the square root of 3 being 1.732, for example.
 4. If you can’t find the square root, throw a “no root” error.
 
+This is a problem you should “brute force” – create a loop with multiplications inside, looking for the integer you were passed in.
+
 ## Checkpoint 5
 
 ## Checkpoint 6
