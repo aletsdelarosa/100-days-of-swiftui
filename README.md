@@ -112,6 +112,10 @@ If that sounds easy, it’s because I haven’t explained the catch yet: I want 
 
 ## Project 1
 
+This project is a check-sharing app that calculates how to split a check based on the number of people and how much tip you want to leave. The project in itself isn’t complicated, but we’ll be taking it slow so you can see exactly how these fundamentals fit together.
+
+![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/212564158-3dccb750-b988-4cd0-b8e6-3e008802599d.png)
+
 ## Project 2
 
 ## Project 3
