@@ -14,7 +14,7 @@ This Repo contains the Checkpoints and projects I made as part of 100 Days of Sw
 - [Checkpoint 8](#checkpoint-8)
 - [Checkpoint 9](#checkpoint-9)
 - [Project 1 | WeSplit Check-sharing app](#project-1)
-- [Challenge | Unit conversion app](#challenge)
+- [Challenge | convertIt Unit conversion app](#challenge)
 
 ## Checkpoint 1
 
@@ -135,6 +135,9 @@ This project is a check-sharing app that calculates how to split a check based o
 ## Challenge
 
 You need to build an app that handles unit conversions: users will select an input unit and an output unit, then enter a value, and see the output of the conversion.
+
+![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/212567364-d9a18ca9-a0ae-44e3-a854-3ceab0b7f030.png)
+![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/212567366-e49c0104-82c8-4514-bdcc-12d9f8d1be4e.png)
 
 ## Project 2
 
