@@ -193,6 +193,12 @@ The actual app we’re building is called BetterRest, and it’s designed to hel
 
 Once we have those three values, we’ll feed them into Core ML to get a result telling us when they ought to go to bed. If you think about it, there are billions of possible answers – all the various wake times multiplied by all the number of sleep hours, multiplied again by the full range of coffee amounts.
 
+![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/213104762-aa19e857-ed79-48a6-8fbc-185a674dc435.png)
+![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/213104771-cfae7107-9312-49d3-8364-46b754a03e59.png)
+![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/213104778-a4e46471-ddd8-408b-8499-d78b341ed107.png)
+![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/213104788-daf1b588-5ae5-4b73-a823-44ac53cc5201.png)
+
+
 ## Project 5
 
 ## Project 6
