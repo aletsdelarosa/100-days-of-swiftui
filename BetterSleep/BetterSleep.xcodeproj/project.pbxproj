@@ -11,6 +11,7 @@
 		D9B0325A2977C2B5008AF6CA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9B032592977C2B5008AF6CA /* ContentView.swift */; };
 		D9B0325C2977C2B7008AF6CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9B0325B2977C2B7008AF6CA /* Assets.xcassets */; };
 		D9B0325F2977C2B7008AF6CA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9B0325E2977C2B7008AF6CA /* Preview Assets.xcassets */; };
+		D9B032682977CA08008AF6CA /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = D9B032672977CA08008AF6CA /* SleepCalculator.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		D9B032592977C2B5008AF6CA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D9B0325B2977C2B7008AF6CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D9B0325E2977C2B7008AF6CA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D9B032672977CA08008AF6CA /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		D9B032562977C2B5008AF6CA /* BetterSleep */ = {
 			isa = PBXGroup;
 			children = (
+				D9B032672977CA08008AF6CA /* SleepCalculator.mlmodel */,
 				D9B032572977C2B5008AF6CA /* BetterSleepApp.swift */,
 				D9B032592977C2B5008AF6CA /* ContentView.swift */,
 				D9B0325B2977C2B7008AF6CA /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D9B0325A2977C2B5008AF6CA /* ContentView.swift in Sources */,
+				D9B032682977CA08008AF6CA /* SleepCalculator.mlmodel in Sources */,
 				D9B032582977C2B5008AF6CA /* BetterSleepApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
