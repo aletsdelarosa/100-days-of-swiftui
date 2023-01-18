@@ -200,7 +200,12 @@ Once we have those three values, we’ll feed them into Core ML to get a result 
 
 ## Project 5
 
-This project will be another game, although really it’s just a sneaky way for me to introduce more Swift and SwiftUI knowledge! The game will show players a random eight-letter word, and ask them to make words out of it. For example, if the starter word is “alarming” they might spell “alarm”, “ring”, “main”, and so on.
+This project will be another game, although really it’s just a sneaky way for me to introduce more Swift and SwiftUI knowledge! The game will show players a random eight-letter word, and ask them to make words out of it. For example, if the starter word is "alarming" they might spell "alarm”, “ring”, “main”, and so on.
+
+![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/213113617-20d64439-5db7-403b-adf1-734794e64a80.png)
+![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/213113624-fb505f90-1bba-4917-b3ed-e03b544d1457.png)
+![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/213113633-8bb55e96-a6d7-418f-817c-7ce426fd8dac.png)
+![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/213113638-4a8e994b-f174-40b7-a455-677f6cc2fd17.png)
 
 ## Project 6
 
