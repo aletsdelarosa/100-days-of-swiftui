@@ -192,6 +192,7 @@ The actual app we’re building is called BetterRest, and it’s designed to hel
 3. How many cups of coffee do they drink per day?
 
 Once we have those three values, we’ll feed them into Core ML to get a result telling us when they ought to go to bed. If you think about it, there are billions of possible answers – all the various wake times multiplied by all the number of sleep hours, multiplied again by the full range of coffee amounts.
+
 ![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/213105017-3bdc5c75-56a4-41ee-879a-156852b63498.png)
 ![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/213105020-ea41a8c1-59f3-4cab-91f9-4408f89c8806.png)
 ![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/213105023-511146bf-9d3b-4437-b064-94b6669f72c1.png)
