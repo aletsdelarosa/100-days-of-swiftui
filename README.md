@@ -4,17 +4,37 @@ This Repo contains the Checkpoints and projects I made as part of 100 Days of Sw
 
 ## Table of contents
 
-- [Checkpoint 1](#checkpoint-1)
-- [Checkpoint 2](#checkpoint-2)
-- [Checkpoint 3](#checkpoint-3)
-- [Checkpoint 4](#checkpoint-4)
-- [Checkpoint 5](#checkpoint-5)
-- [Checkpoint 6](#checkpoint-6)
-- [Checkpoint 7](#checkpoint-7)
-- [Checkpoint 8](#checkpoint-8)
-- [Checkpoint 9](#checkpoint-9)
-- [Project 1 | WeSplit Check-sharing app](#project-1)
-- [Challenge | convertIt Unit conversion app](#challenge)
+- [100-days-of-swiftui](#100-days-of-swiftui)
+  - [Table of contents](#table-of-contents)
+  - [Checkpoint 1](#checkpoint-1)
+  - [Checkpoint 2](#checkpoint-2)
+  - [Checkpoint 3](#checkpoint-3)
+  - [Checkpoint 4](#checkpoint-4)
+  - [Checkpoint 5](#checkpoint-5)
+  - [Checkpoint 6](#checkpoint-6)
+  - [Checkpoint 7](#checkpoint-7)
+  - [Checkpoint 8](#checkpoint-8)
+  - [Checkpoint 9](#checkpoint-9)
+  - [Project 1](#project-1)
+  - [Challenge](#challenge)
+  - [Project 2](#project-2)
+  - [Project 3](#project-3)
+  - [Project 4](#project-4)
+  - [Project 5](#project-5)
+  - [Project 6](#project-6)
+  - [Project 7](#project-7)
+  - [Project 8](#project-8)
+  - [Project 9](#project-9)
+  - [Project 10](#project-10)
+  - [Project 11](#project-11)
+  - [Project 12](#project-12)
+  - [Project 13](#project-13)
+  - [Project 14](#project-14)
+  - [Project 15](#project-15)
+  - [Project 16](#project-16)
+  - [Project 17](#project-17)
+  - [Project 18](#project-18)
+  - [Project 19](#project-19)
 
 ## Checkpoint 1
 
@@ -131,7 +151,6 @@ This project is a check-sharing app that calculates how to split a check based o
 ![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/212565116-7c5ba85f-478f-4c81-b26b-cc0ac6dd6270.png)
 ![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/212565120-01534a28-b5ab-4153-9abd-e6eb28c32a13.png)
 
-
 ## Challenge
 
 You need to build an app that handles unit conversions: users will select an input unit and an output unit, then enter a value, and see the output of the conversion.
@@ -150,6 +169,13 @@ We’re going to be building a guessing game that helps users learn some of the 
 ![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/212570369-608e0b08-2455-49ae-8e12-662789c24cbc.png)
 
 ## Project 3
+
+Challenge
+One of the best ways to learn is to write your own code as often as possible, so here are three ways you should try extending this app to make sure you fully understand what’s going on:
+
+1. Go back to project 1 and use a conditional modifier to change the tip amount text view to red if the user selects a 0% tip.
+2. Go back to project 2 and replace the Image view used for flags with a new FlagImage() view that renders one flag image using the specific set of modifiers we had.
+3. Create a custom ViewModifier (and accompanying View extension) that makes a view have a large, blue font suitable for prominent titles in a view.
 
 ## Project 4
 
