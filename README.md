@@ -200,6 +200,8 @@ Once we have those three values, we’ll feed them into Core ML to get a result 
 
 ## Project 5
 
+This project will be another game, although really it’s just a sneaky way for me to introduce more Swift and SwiftUI knowledge! The game will show players a random eight-letter word, and ask them to make words out of it. For example, if the starter word is “alarming” they might spell “alarm”, “ring”, “main”, and so on.
+
 ## Project 6
 
 ## Project 7
