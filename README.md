@@ -192,12 +192,10 @@ The actual app we’re building is called BetterRest, and it’s designed to hel
 3. How many cups of coffee do they drink per day?
 
 Once we have those three values, we’ll feed them into Core ML to get a result telling us when they ought to go to bed. If you think about it, there are billions of possible answers – all the various wake times multiplied by all the number of sleep hours, multiplied again by the full range of coffee amounts.
-
-![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/213104762-aa19e857-ed79-48a6-8fbc-185a674dc435.png)
-![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/213104771-cfae7107-9312-49d3-8364-46b754a03e59.png)
-![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/213104778-a4e46471-ddd8-408b-8499-d78b341ed107.png)
-![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/213104788-daf1b588-5ae5-4b73-a823-44ac53cc5201.png)
-
+![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/213105017-3bdc5c75-56a4-41ee-879a-156852b63498.png)
+![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/213105020-ea41a8c1-59f3-4cab-91f9-4408f89c8806.png)
+![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/213105023-511146bf-9d3b-4437-b064-94b6669f72c1.png)
+![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/213105031-ef1d0027-9cd8-40b8-aae7-8405893a5a2b.png)
 
 ## Project 5
 
