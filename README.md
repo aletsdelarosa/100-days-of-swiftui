@@ -21,10 +21,8 @@ This Repo contains the Checkpoints and projects I made as part of 100 Days of Sw
   - [Project 3](#project-3)
   - [Project 4](#project-4)
   - [Project 5](#project-5)
-  - [Project 6](#project-6)
   - [Project 7](#project-7)
   - [Project 8](#project-8)
-  - [Project 9](#project-9)
   - [Project 10](#project-10)
   - [Project 11](#project-11)
   - [Project 12](#project-12)
@@ -207,14 +205,6 @@ This project will be another game, although really it's just a sneaky way for me
 ![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/213113633-8bb55e96-a6d7-418f-817c-7ce426fd8dac.png)
 ![Simulator Screen Shot - iPhone 14 Pro](https://user-images.githubusercontent.com/8673199/213113638-4a8e994b-f174-40b7-a455-677f6cc2fd17.png)
 
-## Project 6
-
-Go back to the Guess the Flag project and add some animation:
-
-1. When you tap a flag, make it spin around 360 degrees on the Y axis.
-2. Make the other two buttons fade out to 25% opacity.
-3. Add a third effect of your choosing to the two flags the user didn’t choose – maybe make them scale down? Or flip in a different direction? Experiment!
-
 ## Project 7
 
 In this project we’re going to build iExpense, which is an expense tracker that separates personal costs from business costs. At its core this is an app with a form (how much did you spend?) and a list (here are the amounts you spent).
@@ -223,9 +213,9 @@ In this project we’re going to build iExpense, which is an expense tracker tha
 
 In this project we’re going to build an app that lets users learn about the missions and astronauts that formed NASA’s Apollo space program.
 
-## Project 9
-
 ## Project 10
+
+In this project we’re going to build a multi-screen app for ordering cupcakes.
 
 ## Project 11
 

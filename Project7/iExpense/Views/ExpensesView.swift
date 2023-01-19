@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ExpensesView: View {
-    @ObservedObject var expenses = ExpensesViewModel()
+    @StateObject var expenses = ExpensesViewModel()
     
     @State private var showingAddExpense = false
     
