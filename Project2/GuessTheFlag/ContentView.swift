@@ -50,6 +50,7 @@ struct ContentView: View {
     @State private var showingScore = false
     @State private var scoreTitle = ""
     @State private var score = 0
+    @State private var tappedFlagIndex = -1
     
     var body: some View {
         ZStack {
@@ -85,6 +86,7 @@ struct ContentView: View {
     }
     
     func flagTapped(_ number: Int) {
+        
         if number == correctAnswer {
             scoreTitle = "Correct"
             score += 1
@@ -96,11 +98,13 @@ struct ContentView: View {
     }
     
     func askQuestion() {
+        tappedFlagIndex = -1
         countries.shuffle()
         correctAnswer = Int.random(in: 0...2)
     }
     
     func reset() {
+        tappedFlagIndex = -1
         score = 0
     }
 }
