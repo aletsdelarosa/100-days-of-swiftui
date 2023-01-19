@@ -221,6 +221,8 @@ In this project we’re going to build iExpense, which is an expense tracker tha
 
 ## Project 8
 
+In this project we’re going to build an app that lets users learn about the missions and astronauts that formed NASA’s Apollo space program.
+
 ## Project 9
 
 ## Project 10
