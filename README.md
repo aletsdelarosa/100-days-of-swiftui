@@ -219,6 +219,8 @@ In this project we’re going to build a multi-screen app for ordering cupcakes.
 
 ## Project 11
 
+In this project we’re going to build an app to track which books you’ve read and what you thought of them.
+
 ## Project 12
 
 ## Project 13
